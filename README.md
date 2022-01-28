@@ -8,9 +8,8 @@ Two-hop Heuristic. I compared my algorithm with others classic heuristic approac
 
 Technological advancements is evolving rapidly. With the rise of social media in recent years, the distribution of ideas, information and social phenomenon are now carried out
 in a massive scale and more frequently than ever before. The challenge to determine infuential individuals whose opinions have significant impact over others is defined as
-Inuence Maximisation Problem. This has seen popular applications in viral marketing, outbreak detection and rumour control. This paper studies the in
-Iuence Maximisation Problem through the simulation study of baseline Greedy algorithm and development
-of a novel heuristic approach. 
+Inuence Maximisation Problem. This has seen popular applications in viral marketing, outbreak detection and rumour control. This project studies the Influence Maximisation Problem through the simulation study of baseline Greedy algorithm and development
+of a computationally promising novel heuristic approach.
 
 ## References
 <a id="1">[1]</a> 
